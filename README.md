@@ -19,5 +19,5 @@ $ carl -p other_phrases.json
 
 ## Dependencies
 The script uses Python 3, and the following dependencies (`pip3 install <...>`):
-    * `docopt`
-    * `json`
+* `docopt`
+* `json`
