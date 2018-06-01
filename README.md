@@ -1,6 +1,6 @@
 # Carl: Advanced Refusal Generator
 
-Randomly reproduces one of @rumseyc's frustrating refusal phrases in under 100 lines of Python!
+Randomly reproduces a frustrating refusal phrase (courtesy of @rumseyc) in under 100 lines of Python!
 
 ## Examples
 ```
